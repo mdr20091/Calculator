@@ -1,0 +1,23 @@
+button {
+  border: none;
+  background-color: rebeccapurple;
+  font-size: 24px;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 15px;
+  outline: none;
+  color:white
+}
+
+button:hover {
+  background-color: seagreen;
+}
+
+.equals {
+  grid-column: 3/5;
+  background-color: turquoise;
+}
+
+.eqauls:hover {
+  background-color: goldenrod;
+}
